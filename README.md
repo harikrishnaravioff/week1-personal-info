@@ -1,8 +1,8 @@
-📌 Personal Information Manager
+Personal Information Manager
 
 A simple beginner-friendly Python project that collects and displays personal information. This program demonstrates basic Python concepts like variables, user input, loops, and formatted output.
 
-🚀 Features
+Features
 Displays a welcome message
 Stores predefined personal details (name, age, city, hobby)
 Takes user input for:
@@ -11,10 +11,11 @@ Favorite color
 Validates user input (prevents empty entries)
 Calculates age in months
 Displays all collected information in a formatted way
-🛠️ Technologies Used
+
+Technologies Used
 Python 3
 
-📘 Learning Objectives
+Learning Objectives
 
 This project helps beginners understand:
 

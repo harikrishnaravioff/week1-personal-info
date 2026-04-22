@@ -1,4 +1,4 @@
-📌 Personal Information Manager
+Personal Information Manager
 
 A simple beginner-friendly Python project that collects and displays personal information. This program demonstrates basic Python concepts like variables, user input, loops, and formatted output.
 
